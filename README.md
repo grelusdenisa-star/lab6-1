@@ -1,2 +1,1 @@
-# lab6
-repository pentru lab6
+repository pentru lab 6# 
