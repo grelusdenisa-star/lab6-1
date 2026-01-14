@@ -21,3 +21,4 @@ cat /etc/hosts | while read ip nume r; do
 	check_id "$nume" "$ip" "$dns_server"
 	
 done
+echo "ceva"
